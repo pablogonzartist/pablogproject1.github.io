@@ -31,3 +31,11 @@ p {
     margin: .15em;
     color: rgb(247, 112, 135);
 }
+/*background for first section begins here */
+
+.background {
+    background-color: red;
+    font-family: Jabin;
+    font-size: 10em;
+    color:rgb(179, 212, 255);
+}
